@@ -4,4 +4,4 @@
 
 | Data | Nazwa| Wersja |
 | --- | --- | --- |
-| 2020-03-14 | [infrastruktura-dokumentacja-projektu.doc](struktura) | 1.0 |
+| 2020-03-14 | [infrastruktura-dokumentacja-projektu.docx](infrastruktura-dokumentacja-projektu.docx) | 1.0 |
